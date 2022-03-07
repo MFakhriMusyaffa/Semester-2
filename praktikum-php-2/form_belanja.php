@@ -54,7 +54,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="card" style="width: 23rem;">
-                    <div class="card-header">
+                    <div class="card-header text-white bg-primary">
                         Daftar Harga
                     </div>
                     <ul class="list-group list-group-flush">
@@ -62,7 +62,7 @@
                         <li class="list-group-item">kulkas : 3.100.000</li>
                         <li class="list-group-item">MESIN CUCI : 3.800.000</li>
                     </ul>
-                    <div class="card-footer">
+                    <div class="card-footer text-white bg-primary">
                         Harga Dapat Berubah Setiap Saat
                     </div>
                 </div>
