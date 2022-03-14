@@ -8,8 +8,6 @@
 </head>
 <body>
     <header role="banner">
-        <h2>Student Activity Score - STTNF</h2>
-        <a href="#">Home</a> | <a href="#">Activity</a> | <a href="#">My Score</a> 
-        | <a href="#">Login</a>
+        <h2 class="text-center">Student Activity Score - STTNF</h2>
         <hr/>
     </header>
