@@ -27,17 +27,17 @@ class Harga extends Dispenser{
         $this -> hargaSegelas = $hargaSegelas;
         echo"<br>";
         echo "<br/> Diketahui : ";
-        echo "<br/>Harga satu gelas : " . $hargaSegelas;
+        echo "<br/>Harga satu gelas : Rp." . $hargaSegelas;
     }
     public function Harga(){
-        return $this -> hargaSegelas * 5 ;
+        return $this -> hargaSegelas * 6 ;
     }
 }
     
     echo "<br/>  PHI : " . Dispenser :: PHI;
-    $volumeWadah = new Dispenser(30, 80);
-    $harga = new Harga(1000);
+    $volumeWadah = new Dispenser(30, 90);
+    $harga = new Harga(2000);
     echo "<br/> Volume Wadah : " . $volumeWadah -> VolumeWadah() . " cm3";
-    echo "<br/> Harga 5 Gelas : " . $harga -> Harga();
+    echo "<br/> Harga 6 Gelas :  Rp. " . $harga -> Harga();
 
 ?>
