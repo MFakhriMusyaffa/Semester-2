@@ -1,20 +1,5 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"> 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<style>
-    form{
-        margin-left:2em;
-        margin-right:2em;
-      }
-      table{
-        margin-left:2em;
-        padding-left:2em;
-
-      }
-      h1{
-          text-align:center;
-      }
-    </style>
 <br>
 <h1>Kalkulator BMI</h1>
 <hr/>
